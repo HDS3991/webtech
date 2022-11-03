@@ -1,4 +1,6 @@
-# web
+# Web
+
+Web Frontend Technique Collection!
 
 ## CSS
 
